@@ -1,0 +1,1 @@
+<link rel="shortcut icon" href="../estilo/favicon-livro.ico" type="image/x-icon">
